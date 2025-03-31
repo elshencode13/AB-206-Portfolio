@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\bin\Debug\net8.0\C# Basic Project.exe
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\bin\Debug\net8.0\C# Basic Project.deps.json
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\bin\Debug\net8.0\C# Basic Project.runtimeconfig.json
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\bin\Debug\net8.0\C# Basic Project.dll
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\bin\Debug\net8.0\C# Basic Project.pdb
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\obj\Debug\net8.0\C# Basic Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\obj\Debug\net8.0\C# Basic Project.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\obj\Debug\net8.0\C# Basic Project.AssemblyInfo.cs
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\obj\Debug\net8.0\C# Basic Project.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\obj\Debug\net8.0\C# Basic Project.dll
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\obj\Debug\net8.0\refint\C# Basic Project.dll
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\obj\Debug\net8.0\C# Basic Project.pdb
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\obj\Debug\net8.0\C# Basic Project.genruntimeconfig.cache
+C:\Users\MSI\Desktop\C# project\C# Basic Project\C# Basic Project\obj\Debug\net8.0\ref\C# Basic Project.dll
