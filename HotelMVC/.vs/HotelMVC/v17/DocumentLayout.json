@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\HotelMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AFA0EF-CA93-465A-BBE6-FE250B4741CD}|HotelMVC\\HotelMVC.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\hotelmvc\\hotelmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AFA0EF-CA93-465A-BBE6-FE250B4741CD}|HotelMVC\\HotelMVC.csproj|solutionrelative:hotelmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AFA0EF-CA93-465A-BBE6-FE250B4741CD}|HotelMVC\\HotelMVC.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\hotelmvc\\hotelmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AFA0EF-CA93-465A-BBE6-FE250B4741CD}|HotelMVC\\HotelMVC.csproj|solutionrelative:hotelmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\HotelMVC\\HotelMVC\\Program.cs",
+              "RelativeDocumentMoniker": "HotelMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\HotelMVC\\HotelMVC\\Program.cs",
+              "RelativeToolTip": "HotelMVC\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:19:07.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\HotelMVC\\HotelMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HotelMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\HotelMVC\\HotelMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HotelMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:14:11.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

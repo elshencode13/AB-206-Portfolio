@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\sinaqbolgesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB190F2-F6AC-48F3-9599-A2C9B54F644C}|sinaqbolgesi\\sinaqbolgesi.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\sinaqbolgesi\\sinaqbolgesi\\services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB190F2-F6AC-48F3-9599-A2C9B54F644C}|sinaqbolgesi\\sinaqbolgesi.csproj|solutionrelative:sinaqbolgesi\\services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB190F2-F6AC-48F3-9599-A2C9B54F644C}|sinaqbolgesi\\sinaqbolgesi.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\sinaqbolgesi\\sinaqbolgesi\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB190F2-F6AC-48F3-9599-A2C9B54F644C}|sinaqbolgesi\\sinaqbolgesi.csproj|solutionrelative:sinaqbolgesi\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\sinaqbolgesi\\sinaqbolgesi\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "sinaqbolgesi\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\sinaqbolgesi\\sinaqbolgesi\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "sinaqbolgesi\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:44:45.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MealService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\sinaqbolgesi\\sinaqbolgesi\\Services\\MealService.cs",
+              "RelativeDocumentMoniker": "sinaqbolgesi\\Services\\MealService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\sinaqbolgesi\\sinaqbolgesi\\Services\\MealService.cs",
+              "RelativeToolTip": "sinaqbolgesi\\Services\\MealService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:40:12.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
