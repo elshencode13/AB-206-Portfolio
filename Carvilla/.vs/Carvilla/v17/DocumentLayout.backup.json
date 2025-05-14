@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\Carvilla\\",
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\Carvilla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C607FDC-0BEC-4720-99AF-61D6D6F1DDB8}|Carvilla.MVC\\Carvilla.MVC.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\carvilla\\carvilla.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21832989-4C93-472C-AC38-92538CC0C0CE}|CarvillaMVC.DAL\\Carvilla.DAL.csproj|c:\\users\\ii novbe\\desktop\\ab-206-portfolio\\carvilla\\carvillamvc.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21832989-4C93-472C-AC38-92538CC0C0CE}|CarvillaMVC.DAL\\Carvilla.DAL.csproj|solutionrelative:carvillamvc.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C607FDC-0BEC-4720-99AF-61D6D6F1DDB8}|Carvilla.MVC\\Carvilla.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab-206-portfolio\\carvilla\\carvilla.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C607FDC-0BEC-4720-99AF-61D6D6F1DDB8}|Carvilla.MVC\\Carvilla.MVC.csproj|solutionrelative:carvilla.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21832989-4C93-472C-AC38-92538CC0C0CE}|CarvillaMVC.DAL\\Carvilla.DAL.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\carvilla\\carvillamvc.dal\\migrations\\20250513060739_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21832989-4C93-472C-AC38-92538CC0C0CE}|CarvillaMVC.DAL\\Carvilla.DAL.csproj|solutionrelative:carvillamvc.dal\\migrations\\20250513060739_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C607FDC-0BEC-4720-99AF-61D6D6F1DDB8}|Carvilla.MVC\\Carvilla.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab-206-portfolio\\carvilla\\carvilla.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C607FDC-0BEC-4720-99AF-61D6D6F1DDB8}|Carvilla.MVC\\Carvilla.MVC.csproj|solutionrelative:carvilla.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C607FDC-0BEC-4720-99AF-61D6D6F1DDB8}|Carvilla.MVC\\Carvilla.MVC.csproj|c:\\users\\ii novbe\\desktop\\ab-206-portfolio\\carvilla\\carvilla.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C607FDC-0BEC-4720-99AF-61D6D6F1DDB8}|Carvilla.MVC\\Carvilla.MVC.csproj|solutionrelative:carvilla.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\Carvilla\\Carvilla.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Carvilla.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\Carvilla\\Carvilla.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Carvilla.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T11:18:58.067Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20250513060739_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\Carvilla\\CarvillaMVC.DAL\\Migrations\\20250513060739_Initial.cs",
-              "RelativeDocumentMoniker": "CarvillaMVC.DAL\\Migrations\\20250513060739_Initial.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\Carvilla\\CarvillaMVC.DAL\\Migrations\\20250513060739_Initial.cs",
-              "RelativeToolTip": "CarvillaMVC.DAL\\Migrations\\20250513060739_Initial.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\Carvilla\\Carvilla.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Carvilla.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\Carvilla\\Carvilla.MVC\\Program.cs",
+              "RelativeToolTip": "Carvilla.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T06:07:39.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T11:05:47.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\Carvilla\\Carvilla.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Carvilla.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\Carvilla\\Carvilla.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Carvilla.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:42:28.011Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\Carvilla\\Carvilla.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "Carvilla.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\Carvilla\\Carvilla.MVC\\Program.cs",
-              "RelativeToolTip": "Carvilla.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\Carvilla\\CarvillaMVC.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CarvillaMVC.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\Carvilla\\CarvillaMVC.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "CarvillaMVC.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:59:27.817Z",
+              "WhenOpened": "2025-05-13T10:25:39.395Z",
               "EditorCaption": ""
             }
           ]

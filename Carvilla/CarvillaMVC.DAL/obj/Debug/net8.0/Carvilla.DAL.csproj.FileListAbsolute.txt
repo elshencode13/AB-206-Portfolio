@@ -13,3 +13,18 @@ C:\Users\MSI\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\
 C:\Users\MSI\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\bin\Debug\net8.0\Carvilla.DAL.runtimeconfig.json
 C:\Users\MSI\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.csproj.AssemblyReference.cache
 C:\Users\MSI\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\bin\Debug\net8.0\Carvilla.DAL.deps.json
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\bin\Debug\net8.0\Carvilla.DAL.runtimeconfig.json
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\bin\Debug\net8.0\Carvilla.DAL.dll
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\bin\Debug\net8.0\Carvilla.DAL.pdb
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.sourcelink.json
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.dll
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\refint\Carvilla.DAL.dll
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.pdb
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\Carvilla.DAL.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\CarvillaMVC.DAL\obj\Debug\net8.0\ref\Carvilla.DAL.dll

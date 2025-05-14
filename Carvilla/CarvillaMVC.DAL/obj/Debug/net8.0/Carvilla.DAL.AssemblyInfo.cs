@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carvilla.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81d4bb907fef25eb93da1ed6ef5be8d2193fcef4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0113d6f7139ffe134f1ceee6559786a55d57b81c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carvilla.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carvilla.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

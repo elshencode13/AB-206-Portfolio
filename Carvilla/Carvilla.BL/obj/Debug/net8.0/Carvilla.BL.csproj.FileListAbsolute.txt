@@ -14,3 +14,19 @@ C:\Users\MSI\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carv
 C:\Users\MSI\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\refint\Carvilla.BL.dll
 C:\Users\MSI\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carvilla.BL.pdb
 C:\Users\MSI\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\ref\Carvilla.BL.dll
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\bin\Debug\net8.0\Carvilla.BL.deps.json
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\bin\Debug\net8.0\Carvilla.BL.dll
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\bin\Debug\net8.0\Carvilla.BL.pdb
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\bin\Debug\net8.0\Carvilla.DAL.dll
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\bin\Debug\net8.0\Carvilla.DAL.pdb
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carvilla.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carvilla.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carvilla.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carvilla.BL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carvilla.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carvilla.BL.sourcelink.json
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carvilla.E9E917D4.Up2Date
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carvilla.BL.dll
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\refint\Carvilla.BL.dll
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\Carvilla.BL.pdb
+C:\Users\II Novbe\Desktop\AB-206-Portfolio\Carvilla\Carvilla.BL\obj\Debug\net8.0\ref\Carvilla.BL.dll
