@@ -7596,23 +7596,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\II Novbe\\.nuget\\packages\\": {},
+    "C:\\Users\\MSI\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\CharityMVC\\CharityMVC\\CharityMVC.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\CharityMVC\\CharityMVC\\CharityMVC.csproj",
       "projectName": "CharityMVC",
-      "projectPath": "C:\\Users\\II Novbe\\Desktop\\CharityMVC\\CharityMVC\\CharityMVC.csproj",
-      "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II Novbe\\Desktop\\CharityMVC\\CharityMVC\\obj\\",
+      "projectPath": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\CharityMVC\\CharityMVC\\CharityMVC.csproj",
+      "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\CharityMVC\\CharityMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
