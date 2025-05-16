@@ -1,0 +1,1060 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/css/animate.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\animate.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IgsSxdy0BWhLIqpKerb/fqpdbDyRgU8MadKB1bN1XWk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"57997"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IgsSxdy0BWhLIqpKerb/fqpdbDyRgU8MadKB1bN1XWk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Dec 2021 16:10:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/css/animate.mbktb1n8sc.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\animate.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mbktb1n8sc"},{"Name":"integrity","Value":"sha256-IgsSxdy0BWhLIqpKerb/fqpdbDyRgU8MadKB1bN1XWk="},{"Name":"label","Value":"_content/NFT.MVC/assets/css/animate.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57997"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IgsSxdy0BWhLIqpKerb/fqpdbDyRgU8MadKB1bN1XWk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Dec 2021 16:10:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/css/flex-slider.6k1vjfxrub.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\flex-slider.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6k1vjfxrub"},{"Name":"integrity","Value":"sha256-WodHGchtrvfDFRVmSxRfzCakmnutBSahtrStkRfHSKU="},{"Name":"label","Value":"_content/NFT.MVC/assets/css/flex-slider.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7247"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WodHGchtrvfDFRVmSxRfzCakmnutBSahtrStkRfHSKU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:36:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/css/flex-slider.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\flex-slider.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WodHGchtrvfDFRVmSxRfzCakmnutBSahtrStkRfHSKU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7247"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WodHGchtrvfDFRVmSxRfzCakmnutBSahtrStkRfHSKU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:36:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/css/fontawesome.950eoveqb1.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\fontawesome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"950eoveqb1"},{"Name":"integrity","Value":"sha256-w7MwROYzckW\u002BmLKOARXHq1wZU5Wrx5SCJ/r\u002BemTnIC8="},{"Name":"label","Value":"_content/NFT.MVC/assets/css/fontawesome.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"123176"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022w7MwROYzckW\u002BmLKOARXHq1wZU5Wrx5SCJ/r\u002BemTnIC8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Dec 2021 18:04:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/css/fontawesome.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\fontawesome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w7MwROYzckW\u002BmLKOARXHq1wZU5Wrx5SCJ/r\u002BemTnIC8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"123176"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022w7MwROYzckW\u002BmLKOARXHq1wZU5Wrx5SCJ/r\u002BemTnIC8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Dec 2021 18:04:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/css/owl.c10bbavtrn.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\owl.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c10bbavtrn"},{"Name":"integrity","Value":"sha256-8FfTY8BXrJMQXqixFODx/NnDFum5RSadOgtI2voxI2k="},{"Name":"label","Value":"_content/NFT.MVC/assets/css/owl.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4928"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228FfTY8BXrJMQXqixFODx/NnDFum5RSadOgtI2voxI2k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:36:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/css/owl.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\owl.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8FfTY8BXrJMQXqixFODx/NnDFum5RSadOgtI2voxI2k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4928"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228FfTY8BXrJMQXqixFODx/NnDFum5RSadOgtI2voxI2k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:36:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/css/templatemo-liberty-market.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\templatemo-liberty-market.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lR0o61f6i8cBEMYuTTlACG4uViMahvE6QDj5a0/CHzg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"41271"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022lR0o61f6i8cBEMYuTTlACG4uViMahvE6QDj5a0/CHzg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jun 2022 15:32:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/css/templatemo-liberty-market.dqmu7a4126.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\templatemo-liberty-market.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dqmu7a4126"},{"Name":"integrity","Value":"sha256-lR0o61f6i8cBEMYuTTlACG4uViMahvE6QDj5a0/CHzg="},{"Name":"label","Value":"_content/NFT.MVC/assets/css/templatemo-liberty-market.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41271"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022lR0o61f6i8cBEMYuTTlACG4uViMahvE6QDj5a0/CHzg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jun 2022 15:32:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/author-02.fb2149qmi4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\author-02.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fb2149qmi4"},{"Name":"integrity","Value":"sha256-\u002BykaNsS4Kfxl/hPTGSkHsCCDnycaA7kUs9Jc57Z5AoY="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/author-02.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4081"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BykaNsS4Kfxl/hPTGSkHsCCDnycaA7kUs9Jc57Z5AoY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 09:50:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/author-02.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\author-02.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BykaNsS4Kfxl/hPTGSkHsCCDnycaA7kUs9Jc57Z5AoY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4081"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BykaNsS4Kfxl/hPTGSkHsCCDnycaA7kUs9Jc57Z5AoY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 09:50:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/author-03.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\author-03.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aEe6IAST5j1D6BL66I\u002B7L0CT7eTFiriD72iA13cGE5o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4217"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aEe6IAST5j1D6BL66I\u002B7L0CT7eTFiriD72iA13cGE5o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 09:51:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/author-03.ktkgqcjtx2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\author-03.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ktkgqcjtx2"},{"Name":"integrity","Value":"sha256-aEe6IAST5j1D6BL66I\u002B7L0CT7eTFiriD72iA13cGE5o="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/author-03.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4217"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aEe6IAST5j1D6BL66I\u002B7L0CT7eTFiriD72iA13cGE5o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 09:51:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/author.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\author.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Ck4YkhRXf5sPkMXLuI82N/yYUDxWUo7zvdq9TTGPa\u002Bo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3209"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Ck4YkhRXf5sPkMXLuI82N/yYUDxWUo7zvdq9TTGPa\u002Bo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 19:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/author.q4eakxry2h.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\author.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q4eakxry2h"},{"Name":"integrity","Value":"sha256-Ck4YkhRXf5sPkMXLuI82N/yYUDxWUo7zvdq9TTGPa\u002Bo="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/author.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3209"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Ck4YkhRXf5sPkMXLuI82N/yYUDxWUo7zvdq9TTGPa\u002Bo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 19:12:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/banner-01.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\banner-01.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ykO0T\u002BI0qp5W4XR43D4zhIc0LQ\u002BM44eDI8qfxm3uhDg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"327725"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ykO0T\u002BI0qp5W4XR43D4zhIc0LQ\u002BM44eDI8qfxm3uhDg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 17:52:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/banner-01.q4ikzi2wfk.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\banner-01.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q4ikzi2wfk"},{"Name":"integrity","Value":"sha256-ykO0T\u002BI0qp5W4XR43D4zhIc0LQ\u002BM44eDI8qfxm3uhDg="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/banner-01.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"327725"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ykO0T\u002BI0qp5W4XR43D4zhIc0LQ\u002BM44eDI8qfxm3uhDg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 17:52:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/banner-02.lbkrny9gnm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\banner-02.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lbkrny9gnm"},{"Name":"integrity","Value":"sha256-oW6VpPyhmasjszVwXDv0ULcQsYu5Q27\u002BYVbI53lK6Is="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/banner-02.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"320335"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oW6VpPyhmasjszVwXDv0ULcQsYu5Q27\u002BYVbI53lK6Is=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 17:52:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/banner-02.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\banner-02.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oW6VpPyhmasjszVwXDv0ULcQsYu5Q27\u002BYVbI53lK6Is="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"320335"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oW6VpPyhmasjszVwXDv0ULcQsYu5Q27\u002BYVbI53lK6Is=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 17:52:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/banner-bg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\banner-bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BsvA4sq6FwIbcS9rN9SZSvLQfKg9jWORjJx5Q1ScKJw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"287769"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BsvA4sq6FwIbcS9rN9SZSvLQfKg9jWORjJx5Q1ScKJw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 17:45:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/banner-bg.uz33xdczjr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\banner-bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uz33xdczjr"},{"Name":"integrity","Value":"sha256-\u002BsvA4sq6FwIbcS9rN9SZSvLQfKg9jWORjJx5Q1ScKJw="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/banner-bg.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"287769"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BsvA4sq6FwIbcS9rN9SZSvLQfKg9jWORjJx5Q1ScKJw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 17:45:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/category-collection-dec.a5j5ir44ru.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\category-collection-dec.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a5j5ir44ru"},{"Name":"integrity","Value":"sha256-0jH39V8hinLMLNn3g5BIuhwqj4ZlVNzcHYQa23c7wi0="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/category-collection-dec.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"125104"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00220jH39V8hinLMLNn3g5BIuhwqj4ZlVNzcHYQa23c7wi0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:31:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/category-collection-dec.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\category-collection-dec.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0jH39V8hinLMLNn3g5BIuhwqj4ZlVNzcHYQa23c7wi0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"125104"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00220jH39V8hinLMLNn3g5BIuhwqj4ZlVNzcHYQa23c7wi0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:31:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/collection-01.fq58at1fw9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\collection-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fq58at1fw9"},{"Name":"integrity","Value":"sha256-B32ThrlpZ3ljK/wTYH/L/ervMsbEQJQZq43EBPMZA\u002BI="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/collection-01.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022B32ThrlpZ3ljK/wTYH/L/ervMsbEQJQZq43EBPMZA\u002BI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:22:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/collection-01.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\collection-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-B32ThrlpZ3ljK/wTYH/L/ervMsbEQJQZq43EBPMZA\u002BI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022B32ThrlpZ3ljK/wTYH/L/ervMsbEQJQZq43EBPMZA\u002BI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:22:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/create-yours.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\create-yours.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cyrBg1UoVMtz4BC6igl0Ky82UhLZzdC0RG8JcKBUy6A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"87431"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cyrBg1UoVMtz4BC6igl0Ky82UhLZzdC0RG8JcKBUy6A=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 12:03:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/create-yours.rem0lxu2n4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\create-yours.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rem0lxu2n4"},{"Name":"integrity","Value":"sha256-cyrBg1UoVMtz4BC6igl0Ky82UhLZzdC0RG8JcKBUy6A="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/create-yours.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"87431"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cyrBg1UoVMtz4BC6igl0Ky82UhLZzdC0RG8JcKBUy6A=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 12:03:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/current-01.eboetetsvi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\current-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eboetetsvi"},{"Name":"integrity","Value":"sha256-ZogeC7k1OZbHkgjTvO8gc3G8vzeHUWE8hQlZy1JOE1g="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/current-01.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17683"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZogeC7k1OZbHkgjTvO8gc3G8vzeHUWE8hQlZy1JOE1g=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 10:59:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/current-01.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\current-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZogeC7k1OZbHkgjTvO8gc3G8vzeHUWE8hQlZy1JOE1g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17683"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ZogeC7k1OZbHkgjTvO8gc3G8vzeHUWE8hQlZy1JOE1g=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 10:59:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/current-02.8opdus2i07.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\current-02.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8opdus2i07"},{"Name":"integrity","Value":"sha256-ODHfthTbwykNXXDSS/Vp/eAz5j0u4X5rpB2c7dPHg0Q="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/current-02.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16393"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ODHfthTbwykNXXDSS/Vp/eAz5j0u4X5rpB2c7dPHg0Q=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 11:00:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/current-02.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\current-02.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ODHfthTbwykNXXDSS/Vp/eAz5j0u4X5rpB2c7dPHg0Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16393"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ODHfthTbwykNXXDSS/Vp/eAz5j0u4X5rpB2c7dPHg0Q=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 11:00:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/current-03.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\current-03.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SOeqEheaYsnNHX\u002BXECjKYrdBre6yqEBxMm0Ccsb9PM4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12915"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SOeqEheaYsnNHX\u002BXECjKYrdBre6yqEBxMm0Ccsb9PM4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 11:00:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/current-03.wq7u64873v.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\current-03.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wq7u64873v"},{"Name":"integrity","Value":"sha256-SOeqEheaYsnNHX\u002BXECjKYrdBre6yqEBxMm0Ccsb9PM4="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/current-03.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12915"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SOeqEheaYsnNHX\u002BXECjKYrdBre6yqEBxMm0Ccsb9PM4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 11:00:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/current-04.2zxoa9hw4l.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\current-04.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2zxoa9hw4l"},{"Name":"integrity","Value":"sha256-AiAuhRLl8HbnzJ4AFZdMLFmvKEovwojlzUcLGSVi\u002BrQ="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/current-04.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18242"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022AiAuhRLl8HbnzJ4AFZdMLFmvKEovwojlzUcLGSVi\u002BrQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 11:00:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/current-04.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\current-04.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AiAuhRLl8HbnzJ4AFZdMLFmvKEovwojlzUcLGSVi\u002BrQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18242"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022AiAuhRLl8HbnzJ4AFZdMLFmvKEovwojlzUcLGSVi\u002BrQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 11:00:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/dark-bg.hn7zmrualu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\dark-bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hn7zmrualu"},{"Name":"integrity","Value":"sha256-fZO7V2i546xJO2of6W8Kq547VsCT2k79VunLgpscPrQ="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/dark-bg.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40643"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fZO7V2i546xJO2of6W8Kq547VsCT2k79VunLgpscPrQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:01:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/dark-bg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\dark-bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fZO7V2i546xJO2of6W8Kq547VsCT2k79VunLgpscPrQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"40643"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fZO7V2i546xJO2of6W8Kq547VsCT2k79VunLgpscPrQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:01:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-01.i659s666ar.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i659s666ar"},{"Name":"integrity","Value":"sha256-hil2vvfPMkfXYubh2LuX4Gy\u002BgwmPoRZy9mXMnKZjxtk="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/discover-01.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10716"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022hil2vvfPMkfXYubh2LuX4Gy\u002BgwmPoRZy9mXMnKZjxtk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 22:58:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-01.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hil2vvfPMkfXYubh2LuX4Gy\u002BgwmPoRZy9mXMnKZjxtk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10716"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022hil2vvfPMkfXYubh2LuX4Gy\u002BgwmPoRZy9mXMnKZjxtk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 22:58:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-02.esiorcr7c8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-02.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"esiorcr7c8"},{"Name":"integrity","Value":"sha256-HpB7d0dcoPpmEjiiHL9pnBEgXpZNG/5oDokifW9K58g="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/discover-02.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11315"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HpB7d0dcoPpmEjiiHL9pnBEgXpZNG/5oDokifW9K58g=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 22:59:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-02.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-02.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HpB7d0dcoPpmEjiiHL9pnBEgXpZNG/5oDokifW9K58g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11315"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HpB7d0dcoPpmEjiiHL9pnBEgXpZNG/5oDokifW9K58g=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 22:59:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-03.j62sxmc8g1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-03.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j62sxmc8g1"},{"Name":"integrity","Value":"sha256-9WyJjy53QGyYHH\u002Bdn0uIuATPSVGYsHVuf9AgfM5hfwE="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/discover-03.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9129"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229WyJjy53QGyYHH\u002Bdn0uIuATPSVGYsHVuf9AgfM5hfwE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 23:22:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-03.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-03.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9WyJjy53QGyYHH\u002Bdn0uIuATPSVGYsHVuf9AgfM5hfwE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9129"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229WyJjy53QGyYHH\u002Bdn0uIuATPSVGYsHVuf9AgfM5hfwE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 23:22:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-04.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-04.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sTEUUrixnOpo4l/gugsjtSzlfri\u002BeD5Y86VUniNUIWs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20574"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sTEUUrixnOpo4l/gugsjtSzlfri\u002BeD5Y86VUniNUIWs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 09:40:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-04.pmwutxtw3e.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-04.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pmwutxtw3e"},{"Name":"integrity","Value":"sha256-sTEUUrixnOpo4l/gugsjtSzlfri\u002BeD5Y86VUniNUIWs="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/discover-04.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20574"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sTEUUrixnOpo4l/gugsjtSzlfri\u002BeD5Y86VUniNUIWs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 09:40:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-05.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-05.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9\u002BUnh1pWLJ7mx9ZDSXyx2cb6nzaFWn6tzzWlyv3yHtQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12726"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229\u002BUnh1pWLJ7mx9ZDSXyx2cb6nzaFWn6tzzWlyv3yHtQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 09:40:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-05.xqwtjzfylr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-05.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xqwtjzfylr"},{"Name":"integrity","Value":"sha256-9\u002BUnh1pWLJ7mx9ZDSXyx2cb6nzaFWn6tzzWlyv3yHtQ="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/discover-05.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12726"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229\u002BUnh1pWLJ7mx9ZDSXyx2cb6nzaFWn6tzzWlyv3yHtQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 09:40:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-06.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-06.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uSwWpfVfUEOSvH7r90gY27dSHthEFEyDORdpVB4Rv6Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11275"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uSwWpfVfUEOSvH7r90gY27dSHthEFEyDORdpVB4Rv6Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 09:41:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/discover-06.ncczyigrc7.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\discover-06.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ncczyigrc7"},{"Name":"integrity","Value":"sha256-uSwWpfVfUEOSvH7r90gY27dSHthEFEyDORdpVB4Rv6Y="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/discover-06.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11275"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uSwWpfVfUEOSvH7r90gY27dSHthEFEyDORdpVB4Rv6Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 09:41:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/featured-01.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Bv2a8F24/uMMQ6u3lr2xjaFQYxbsTUvebfTqCczIHdc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"83519"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Bv2a8F24/uMMQ6u3lr2xjaFQYxbsTUvebfTqCczIHdc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Feb 2022 17:20:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/featured-01.mgrowz9pl4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mgrowz9pl4"},{"Name":"integrity","Value":"sha256-Bv2a8F24/uMMQ6u3lr2xjaFQYxbsTUvebfTqCczIHdc="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/featured-01.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"83519"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Bv2a8F24/uMMQ6u3lr2xjaFQYxbsTUvebfTqCczIHdc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Feb 2022 17:20:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/featured-02.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-02.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IPXQGUz916UZInJgG30AkGwuimzdqZCHp3e31XLyl/8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"46909"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IPXQGUz916UZInJgG30AkGwuimzdqZCHp3e31XLyl/8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 22:19:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/featured-02.kvji0g025a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-02.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kvji0g025a"},{"Name":"integrity","Value":"sha256-IPXQGUz916UZInJgG30AkGwuimzdqZCHp3e31XLyl/8="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/featured-02.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"46909"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022IPXQGUz916UZInJgG30AkGwuimzdqZCHp3e31XLyl/8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 22:19:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/featured-03.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-03.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r8/aQ1p8hs5rh/NN9yD9\u002B9phsLOUC/xZ/ht4NAQLCSg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"47753"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r8/aQ1p8hs5rh/NN9yD9\u002B9phsLOUC/xZ/ht4NAQLCSg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 22:20:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/featured-03.nyp1y586f0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-03.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nyp1y586f0"},{"Name":"integrity","Value":"sha256-r8/aQ1p8hs5rh/NN9yD9\u002B9phsLOUC/xZ/ht4NAQLCSg="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/featured-03.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"47753"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r8/aQ1p8hs5rh/NN9yD9\u002B9phsLOUC/xZ/ht4NAQLCSg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 22:20:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/featured-04.fbduglqf3j.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-04.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fbduglqf3j"},{"Name":"integrity","Value":"sha256-64J7t9zh5twz6J2tkcUR\u002B81WJW0nSsvwFuFv/NshO0o="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/featured-04.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35596"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002264J7t9zh5twz6J2tkcUR\u002B81WJW0nSsvwFuFv/NshO0o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Feb 2022 17:22:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/featured-04.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\featured-04.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-64J7t9zh5twz6J2tkcUR\u002B81WJW0nSsvwFuFv/NshO0o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"35596"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002264J7t9zh5twz6J2tkcUR\u002B81WJW0nSsvwFuFv/NshO0o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Feb 2022 17:22:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/heading-bg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\heading-bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KTW9HdwtIn\u002Bu0UNZYnmoiJX0RI8M37uJTPiip72v0uk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30297"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022KTW9HdwtIn\u002Bu0UNZYnmoiJX0RI8M37uJTPiip72v0uk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 22:05:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/heading-bg.vyfooj6z3c.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\heading-bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vyfooj6z3c"},{"Name":"integrity","Value":"sha256-KTW9HdwtIn\u002Bu0UNZYnmoiJX0RI8M37uJTPiip72v0uk="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/heading-bg.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30297"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022KTW9HdwtIn\u002Bu0UNZYnmoiJX0RI8M37uJTPiip72v0uk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 22:05:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-01.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-01.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6mUPeknejUZouytHvvGSrxAphBiQeW/TuWw8zlBm460="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2139"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226mUPeknejUZouytHvvGSrxAphBiQeW/TuWw8zlBm460=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:08:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-01.qsucv4nvp1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-01.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qsucv4nvp1"},{"Name":"integrity","Value":"sha256-6mUPeknejUZouytHvvGSrxAphBiQeW/TuWw8zlBm460="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/icon-01.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2139"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226mUPeknejUZouytHvvGSrxAphBiQeW/TuWw8zlBm460=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:08:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-02.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-02.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HnVeJF5sq5RCv8lmjbu3mvp5gdpmR9nbIgtDqxvc2Uo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1840"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HnVeJF5sq5RCv8lmjbu3mvp5gdpmR9nbIgtDqxvc2Uo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:17:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-02.ucx1m4ju5s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-02.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ucx1m4ju5s"},{"Name":"integrity","Value":"sha256-HnVeJF5sq5RCv8lmjbu3mvp5gdpmR9nbIgtDqxvc2Uo="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/icon-02.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1840"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HnVeJF5sq5RCv8lmjbu3mvp5gdpmR9nbIgtDqxvc2Uo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:17:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-03.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-03.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8f5RiFR5uxUeV/VG\u002BleVpoGPHOTl45qzxZ/NRVQcric="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1547"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228f5RiFR5uxUeV/VG\u002BleVpoGPHOTl45qzxZ/NRVQcric=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:17:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-03.xof6i64040.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-03.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xof6i64040"},{"Name":"integrity","Value":"sha256-8f5RiFR5uxUeV/VG\u002BleVpoGPHOTl45qzxZ/NRVQcric="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/icon-03.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1547"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228f5RiFR5uxUeV/VG\u002BleVpoGPHOTl45qzxZ/NRVQcric=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:17:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-04.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-04.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ceDGIDFuOQrdUXy59kp5TIOxb6t01sJZT3lKyJMcYb4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2148"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ceDGIDFuOQrdUXy59kp5TIOxb6t01sJZT3lKyJMcYb4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:17:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-04.vg3ok9y2r4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-04.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vg3ok9y2r4"},{"Name":"integrity","Value":"sha256-ceDGIDFuOQrdUXy59kp5TIOxb6t01sJZT3lKyJMcYb4="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/icon-04.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2148"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ceDGIDFuOQrdUXy59kp5TIOxb6t01sJZT3lKyJMcYb4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:17:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-05.h2gzaf4e8f.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-05.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h2gzaf4e8f"},{"Name":"integrity","Value":"sha256-5x2/CakqrxGurxKjJPtAmEWtTLu8lDA9KRhvA4j03P0="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/icon-05.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1661"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00225x2/CakqrxGurxKjJPtAmEWtTLu8lDA9KRhvA4j03P0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:16:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-05.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-05.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5x2/CakqrxGurxKjJPtAmEWtTLu8lDA9KRhvA4j03P0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1661"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00225x2/CakqrxGurxKjJPtAmEWtTLu8lDA9KRhvA4j03P0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:16:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-06.p5hcslebla.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-06.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p5hcslebla"},{"Name":"integrity","Value":"sha256-I249rlchYd/\u002Bubs/JsYyUafBeHkhfK2\u002B1Y9N5JvXH7U="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/icon-06.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1683"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022I249rlchYd/\u002Bubs/JsYyUafBeHkhfK2\u002B1Y9N5JvXH7U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:16:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/icon-06.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\icon-06.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-I249rlchYd/\u002Bubs/JsYyUafBeHkhfK2\u002B1Y9N5JvXH7U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1683"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022I249rlchYd/\u002Bubs/JsYyUafBeHkhfK2\u002B1Y9N5JvXH7U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:16:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/item-details-01.4lg885mpsf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\item-details-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4lg885mpsf"},{"Name":"integrity","Value":"sha256-CB7AT9xt01/cDO6pyI9K4S\u002BvD60EX6r7X04gro3tLLE="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/item-details-01.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"112939"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CB7AT9xt01/cDO6pyI9K4S\u002BvD60EX6r7X04gro3tLLE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 10:02:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/item-details-01.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\item-details-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CB7AT9xt01/cDO6pyI9K4S\u002BvD60EX6r7X04gro3tLLE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"112939"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CB7AT9xt01/cDO6pyI9K4S\u002BvD60EX6r7X04gro3tLLE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 10:02:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/logo.gyyr4rpmf1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gyyr4rpmf1"},{"Name":"integrity","Value":"sha256-SDYxxBw\u002BfuHrpLGTngMvOiIuqibcuhcsJ98YPBBkUZo="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/logo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4819"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SDYxxBw\u002BfuHrpLGTngMvOiIuqibcuhcsJ98YPBBkUZo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 17:27:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/logo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SDYxxBw\u002BfuHrpLGTngMvOiIuqibcuhcsJ98YPBBkUZo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4819"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SDYxxBw\u002BfuHrpLGTngMvOiIuqibcuhcsJ98YPBBkUZo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 17:27:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/main-bg.fxfcf377nc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\main-bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fxfcf377nc"},{"Name":"integrity","Value":"sha256-o2btN0h22q8tSkbHf58\u002BgZAJ2MLGoCdGq8LIVOcNTsA="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/main-bg.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19538"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022o2btN0h22q8tSkbHf58\u002BgZAJ2MLGoCdGq8LIVOcNTsA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:53:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/main-bg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\main-bg.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-o2btN0h22q8tSkbHf58\u002BgZAJ2MLGoCdGq8LIVOcNTsA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19538"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022o2btN0h22q8tSkbHf58\u002BgZAJ2MLGoCdGq8LIVOcNTsA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 18:53:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/market-01.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\market-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-D5ywrqXDx1J0al8uWBz/1GlJDYgOMZLeIi7Sy8W7sgs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9860"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022D5ywrqXDx1J0al8uWBz/1GlJDYgOMZLeIi7Sy8W7sgs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 19:12:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/market-01.rpns5837mo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\market-01.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rpns5837mo"},{"Name":"integrity","Value":"sha256-D5ywrqXDx1J0al8uWBz/1GlJDYgOMZLeIi7Sy8W7sgs="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/market-01.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9860"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022D5ywrqXDx1J0al8uWBz/1GlJDYgOMZLeIi7Sy8W7sgs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 19:12:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/single-author.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\single-author.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dWpOkNMBUDU4B81cqIo5vgmvbiXzdfjiAsUXNYmQTjY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16353"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022dWpOkNMBUDU4B81cqIo5vgmvbiXzdfjiAsUXNYmQTjY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 11:45:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/images/single-author.l8o3xb0g9j.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\single-author.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l8o3xb0g9j"},{"Name":"integrity","Value":"sha256-dWpOkNMBUDU4B81cqIo5vgmvbiXzdfjiAsUXNYmQTjY="},{"Name":"label","Value":"_content/NFT.MVC/assets/images/single-author.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16353"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022dWpOkNMBUDU4B81cqIo5vgmvbiXzdfjiAsUXNYmQTjY=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Jan 2022 11:45:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/custom.7wodd1j3g3.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\custom.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7wodd1j3g3"},{"Name":"integrity","Value":"sha256-uX/Z0YkzU3vLiZrDSkaMv9QmsLTgKoifcUBibbLk03M="},{"Name":"label","Value":"_content/NFT.MVC/assets/js/custom.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6598"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022uX/Z0YkzU3vLiZrDSkaMv9QmsLTgKoifcUBibbLk03M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Oct 2022 17:21:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/custom.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\custom.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uX/Z0YkzU3vLiZrDSkaMv9QmsLTgKoifcUBibbLk03M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6598"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022uX/Z0YkzU3vLiZrDSkaMv9QmsLTgKoifcUBibbLk03M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Oct 2022 17:21:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/isotope.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\isotope.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bV\u002BXPuDA8Ga4YqZgviWxtKQYf4UB2pBD2OXssMcWLUs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"35324"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022bV\u002BXPuDA8Ga4YqZgviWxtKQYf4UB2pBD2OXssMcWLUs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 19:40:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/isotope.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\isotope.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uvdNOexk13KyM4eBXojR3IYbBZmxpFCbK2w5Z9z7KE0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"119998"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022uvdNOexk13KyM4eBXojR3IYbBZmxpFCbK2w5Z9z7KE0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 19:40:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/isotope.min.ydt623wwc1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\isotope.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ydt623wwc1"},{"Name":"integrity","Value":"sha256-uvdNOexk13KyM4eBXojR3IYbBZmxpFCbK2w5Z9z7KE0="},{"Name":"label","Value":"_content/NFT.MVC/assets/js/isotope.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"119998"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022uvdNOexk13KyM4eBXojR3IYbBZmxpFCbK2w5Z9z7KE0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 19:40:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/isotope.vdeferhyz8.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\isotope.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vdeferhyz8"},{"Name":"integrity","Value":"sha256-bV\u002BXPuDA8Ga4YqZgviWxtKQYf4UB2pBD2OXssMcWLUs="},{"Name":"label","Value":"_content/NFT.MVC/assets/js/isotope.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35324"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022bV\u002BXPuDA8Ga4YqZgviWxtKQYf4UB2pBD2OXssMcWLUs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Jan 2022 19:40:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/owl-carousel.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\owl-carousel.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"93438"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:37:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/owl-carousel.s0urs9j7h8.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\owl-carousel.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s0urs9j7h8"},{"Name":"integrity","Value":"sha256-RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4="},{"Name":"label","Value":"_content/NFT.MVC/assets/js/owl-carousel.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"93438"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022RN8Ln2oIxjjCzlRJicyPww6Q/SvahGUoDQzw8tIUFz4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:37:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/popup.d8d4tb96dx.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\popup.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d8d4tb96dx"},{"Name":"integrity","Value":"sha256-/XSNtti9O9AFQ/HUxEhvOT7gh8O2g6DklLDSReHmGhU="},{"Name":"label","Value":"_content/NFT.MVC/assets/js/popup.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1031"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/XSNtti9O9AFQ/HUxEhvOT7gh8O2g6DklLDSReHmGhU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Jan 2022 09:27:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/popup.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\popup.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/XSNtti9O9AFQ/HUxEhvOT7gh8O2g6DklLDSReHmGhU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1031"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/XSNtti9O9AFQ/HUxEhvOT7gh8O2g6DklLDSReHmGhU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Jan 2022 09:27:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/tabs.bhkixlkphy.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\tabs.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bhkixlkphy"},{"Name":"integrity","Value":"sha256-0RL7MSz1xlTsaxsuKktxbHNYgFMSgpDUBq0Cw2yw29Y="},{"Name":"label","Value":"_content/NFT.MVC/assets/js/tabs.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"485937"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00220RL7MSz1xlTsaxsuKktxbHNYgFMSgpDUBq0Cw2yw29Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Jan 2022 07:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/js/tabs.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\tabs.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0RL7MSz1xlTsaxsuKktxbHNYgFMSgpDUBq0Cw2yw29Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"485937"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00220RL7MSz1xlTsaxsuKktxbHNYgFMSgpDUBq0Cw2yw29Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Jan 2022 07:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-brands-400.ec7av0s957.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ec7av0s957"},{"Name":"integrity","Value":"sha256-Uj3HLKpCaHyUblqNfmtDiICiaIGWRGbPFCXOURTklwE="},{"Name":"label","Value":"_content/NFT.MVC/assets/webfonts/fa-brands-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"181260"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022Uj3HLKpCaHyUblqNfmtDiICiaIGWRGbPFCXOURTklwE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-brands-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Uj3HLKpCaHyUblqNfmtDiICiaIGWRGbPFCXOURTklwE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"181260"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022Uj3HLKpCaHyUblqNfmtDiICiaIGWRGbPFCXOURTklwE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-brands-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-M6JS1jk8vW3r4KxRcinHqiWKDuaPwCU/i\u002Banzui2Xuk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"105204"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022M6JS1jk8vW3r4KxRcinHqiWKDuaPwCU/i\u002Banzui2Xuk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-brands-400.xbaqrjsnrd.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xbaqrjsnrd"},{"Name":"integrity","Value":"sha256-M6JS1jk8vW3r4KxRcinHqiWKDuaPwCU/i\u002Banzui2Xuk="},{"Name":"label","Value":"_content/NFT.MVC/assets/webfonts/fa-brands-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"105204"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022M6JS1jk8vW3r4KxRcinHqiWKDuaPwCU/i\u002Banzui2Xuk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-regular-400.07aei3q65k.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"07aei3q65k"},{"Name":"integrity","Value":"sha256-5HYWGFSBsOzWNtw1/EZzpKMysayWWF/B\u002Bc8NBVPawqA="},{"Name":"label","Value":"_content/NFT.MVC/assets/webfonts/fa-regular-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"60208"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00225HYWGFSBsOzWNtw1/EZzpKMysayWWF/B\u002Bc8NBVPawqA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-regular-400.8s1ufbha8g.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8s1ufbha8g"},{"Name":"integrity","Value":"sha256-iG/R5s6ZLt5RR0OoJvpx/v21dwR6KomcqV9vKPMwXQk="},{"Name":"label","Value":"_content/NFT.MVC/assets/webfonts/fa-regular-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23760"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022iG/R5s6ZLt5RR0OoJvpx/v21dwR6KomcqV9vKPMwXQk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-regular-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5HYWGFSBsOzWNtw1/EZzpKMysayWWF/B\u002Bc8NBVPawqA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"60208"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00225HYWGFSBsOzWNtw1/EZzpKMysayWWF/B\u002Bc8NBVPawqA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-regular-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iG/R5s6ZLt5RR0OoJvpx/v21dwR6KomcqV9vKPMwXQk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23760"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022iG/R5s6ZLt5RR0OoJvpx/v21dwR6KomcqV9vKPMwXQk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-solid-900.4gteh1wgpd.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4gteh1wgpd"},{"Name":"integrity","Value":"sha256-lOG7wcKkHrxz\u002BlJT/VYyVsADW01pGB5I\u002Ba755HShElE="},{"Name":"label","Value":"_content/NFT.MVC/assets/webfonts/fa-solid-900.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"125064"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022lOG7wcKkHrxz\u002BlJT/VYyVsADW01pGB5I\u002Ba755HShElE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-solid-900.gff89q9hdp.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gff89q9hdp"},{"Name":"integrity","Value":"sha256-HCEME0w0ChEzmRpgWwqsmQzoUFxI/ON8kVBjQClk6ZQ="},{"Name":"label","Value":"_content/NFT.MVC/assets/webfonts/fa-solid-900.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"298276"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022HCEME0w0ChEzmRpgWwqsmQzoUFxI/ON8kVBjQClk6ZQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-solid-900.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HCEME0w0ChEzmRpgWwqsmQzoUFxI/ON8kVBjQClk6ZQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"298276"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022HCEME0w0ChEzmRpgWwqsmQzoUFxI/ON8kVBjQClk6ZQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-solid-900.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lOG7wcKkHrxz\u002BlJT/VYyVsADW01pGB5I\u002Ba755HShElE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"125064"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022lOG7wcKkHrxz\u002BlJT/VYyVsADW01pGB5I\u002Ba755HShElE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-v4compatibility.51fdvt6etl.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-v4compatibility.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"51fdvt6etl"},{"Name":"integrity","Value":"sha256-p3/E2UhQ5amzlk0I9eLS\u002BtXGY1umjTiyp\u002BF89MVgvzc="},{"Name":"label","Value":"_content/NFT.MVC/assets/webfonts/fa-v4compatibility.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10552"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022p3/E2UhQ5amzlk0I9eLS\u002BtXGY1umjTiyp\u002BF89MVgvzc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-v4compatibility.n3njcu80rr.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-v4compatibility.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n3njcu80rr"},{"Name":"integrity","Value":"sha256-TcCPFfYc4WuXwMRYC9IzvgyepSFlMz/kYK9UBApcQlw="},{"Name":"label","Value":"_content/NFT.MVC/assets/webfonts/fa-v4compatibility.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5016"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022TcCPFfYc4WuXwMRYC9IzvgyepSFlMz/kYK9UBApcQlw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-v4compatibility.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-v4compatibility.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p3/E2UhQ5amzlk0I9eLS\u002BtXGY1umjTiyp\u002BF89MVgvzc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10552"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022p3/E2UhQ5amzlk0I9eLS\u002BtXGY1umjTiyp\u002BF89MVgvzc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/assets/webfonts/fa-v4compatibility.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\webfonts\fa-v4compatibility.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TcCPFfYc4WuXwMRYC9IzvgyepSFlMz/kYK9UBApcQlw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5016"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022TcCPFfYc4WuXwMRYC9IzvgyepSFlMz/kYK9UBApcQlw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 22 Nov 2021 19:03:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"730"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/css/site.u1ho7t2c19.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u1ho7t2c19"},{"Name":"integrity","Value":"sha256-rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc="},{"Name":"label","Value":"_content/NFT.MVC/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"730"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rngovNI09VHleD9oGN8/M7OnaGzdhqFqpIFaKz6pIMc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/js/site.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PO/8e6bIDi7De8/fdNEN0tfEE9tOM/13R3l4268U5/Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PO/8e6bIDi7De8/fdNEN0tfEE9tOM/13R3l4268U5/Y=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/js/site.wt9wvylme1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wt9wvylme1"},{"Name":"integrity","Value":"sha256-PO/8e6bIDi7De8/fdNEN0tfEE9tOM/13R3l4268U5/Y="},{"Name":"label","Value":"_content/NFT.MVC/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PO/8e6bIDi7De8/fdNEN0tfEE9tOM/13R3l4268U5/Y=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-theme.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"26135"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.css.5wl60yermk.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-theme.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5wl60yermk"},{"Name":"integrity","Value":"sha256-VRy4P\u002BcTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"47709"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022VRy4P\u002BcTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-theme.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VRy4P\u002BcTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"47709"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022VRy4P\u002BcTamJkVbr669tBzZ91ZP77a2isRQLPSGmjuxE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-theme.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23412"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.min.css.kfyfhdxh97.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-theme.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kfyfhdxh97"},{"Name":"integrity","Value":"sha256-8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.min.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5535"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00228E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.min.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-theme.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5535"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00228E6OsUWRNMzsJQE8ChLBEDe/FbE48DnqxqzNic75ALo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.min.hncdx5t4mz.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-theme.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hncdx5t4mz"},{"Name":"integrity","Value":"sha256-s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23412"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022s7kj0ytsxBKSuSaMKmHfQZLxmh3qtRVzK1km6ig5kC0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.z4giugmkw0.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-theme.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z4giugmkw0"},{"Name":"integrity","Value":"sha256-zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap-theme.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26135"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zV9PFwSVxm/pFuTNckKIh9wgMQP8fXUcFf/7rL80aHs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.510k07mx1i.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"510k07mx1i"},{"Name":"integrity","Value":"sha256-KVnjCkGXAa1h2/s21BRH7viL7OnpH1u2rJctQhSD\u002BWo="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"146085"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KVnjCkGXAa1h2/s21BRH7viL7OnpH1u2rJctQhSD\u002BWo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KVnjCkGXAa1h2/s21BRH7viL7OnpH1u2rJctQhSD\u002BWo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"146085"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KVnjCkGXAa1h2/s21BRH7viL7OnpH1u2rJctQhSD\u002BWo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5CXGTo6nPBsk1764PcL\u002BWmBO8PKmdmnosN\u002BQdgzKGB8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"389230"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00225CXGTo6nPBsk1764PcL\u002BWmBO8PKmdmnosN\u002BQdgzKGB8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.css.s280hffjut.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s280hffjut"},{"Name":"integrity","Value":"sha256-5CXGTo6nPBsk1764PcL\u002BWmBO8PKmdmnosN\u002BQdgzKGB8="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"389230"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00225CXGTo6nPBsk1764PcL\u002BWmBO8PKmdmnosN\u002BQdgzKGB8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-byxeH4ijXx4rxyUyXk4rO6gVInGL5\u002BUAUDf4e3GElLA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"121263"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022byxeH4ijXx4rxyUyXk4rO6gVInGL5\u002BUAUDf4e3GElLA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qo4IxmwtFgfYhHhLLk4r1DGjVvhH44s\u002BbEKpYeQlJKs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"54419"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022qo4IxmwtFgfYhHhLLk4r1DGjVvhH44s\u002BbEKpYeQlJKs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.min.css.uqhivaqf4x.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uqhivaqf4x"},{"Name":"integrity","Value":"sha256-qo4IxmwtFgfYhHhLLk4r1DGjVvhH44s\u002BbEKpYeQlJKs="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.min.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"54419"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022qo4IxmwtFgfYhHhLLk4r1DGjVvhH44s\u002BbEKpYeQlJKs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.min.rhjzfs45jd.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rhjzfs45jd"},{"Name":"integrity","Value":"sha256-byxeH4ijXx4rxyUyXk4rO6gVInGL5\u002BUAUDf4e3GElLA="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/dist/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"121263"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022byxeH4ijXx4rxyUyXk4rO6gVInGL5\u002BUAUDf4e3GElLA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/js/bootstrap.gubp6m86i6.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gubp6m86i6"},{"Name":"integrity","Value":"sha256-OOY94EkbzU5VmfEJkqryrJouTW5W7RMnIxLiHXjZxOk="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/dist/js/bootstrap.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"75487"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022OOY94EkbzU5VmfEJkqryrJouTW5W7RMnIxLiHXjZxOk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/js/bootstrap.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OOY94EkbzU5VmfEJkqryrJouTW5W7RMnIxLiHXjZxOk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"75487"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022OOY94EkbzU5VmfEJkqryrJouTW5W7RMnIxLiHXjZxOk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/js/bootstrap.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-52Bcd5EiPJxcsSt2/fc/279UUiKr5VsHWHhFv6rK6xk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"39683"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u002252Bcd5EiPJxcsSt2/fc/279UUiKr5VsHWHhFv6rK6xk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/dist/js/bootstrap.min.n8vnnjo5j0.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n8vnnjo5j0"},{"Name":"integrity","Value":"sha256-52Bcd5EiPJxcsSt2/fc/279UUiKr5VsHWHhFv6rK6xk="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/dist/js/bootstrap.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39683"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u002252Bcd5EiPJxcsSt2/fc/279UUiKr5VsHWHhFv6rK6xk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/LICENSE">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\LICENSE'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lLDThBjJ\u002B0y9JupbwpBCzgjWupKc5tU\u002BTv8PS2QB0to="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1087"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022lLDThBjJ\u002B0y9JupbwpBCzgjWupKc5tU\u002BTv8PS2QB0to=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/bootstrap/LICENSE.0z8svh5ihv">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\LICENSE'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0z8svh5ihv"},{"Name":"integrity","Value":"sha256-lLDThBjJ\u002B0y9JupbwpBCzgjWupKc5tU\u002BTv8PS2QB0to="},{"Name":"label","Value":"_content/NFT.MVC/lib/bootstrap/LICENSE"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1087"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022lLDThBjJ\u002B0y9JupbwpBCzgjWupKc5tU\u002BTv8PS2QB0to=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0z1um1b29w.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0z1um1b29w"},{"Name":"integrity","Value":"sha256-hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19369"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19369"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hPDQnyOnNfiaeri4Pe6zWthMqxR60gIH3RWNsdrwgCQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.aoyfsirkoh.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aoyfsirkoh"},{"Name":"integrity","Value":"sha256-SjFIhr8RtgJI7oFNPJ\u002B4tJWjs1OzWtx8IAT6UoudRr0="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5874"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022SjFIhr8RtgJI7oFNPJ\u002B4tJWjs1OzWtx8IAT6UoudRr0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SjFIhr8RtgJI7oFNPJ\u002B4tJWjs1OzWtx8IAT6UoudRr0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5874"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022SjFIhr8RtgJI7oFNPJ\u002B4tJWjs1OzWtx8IAT6UoudRr0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation-unobtrusive/LICENSE.lk58khhkyn.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lk58khhkyn"},{"Name":"integrity","Value":"sha256-y6m5gpduNqnGzdIsAPvIxRp5KhJtfzrSxMGhjaDk98M="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery-validation-unobtrusive/LICENSE.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"578"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022y6m5gpduNqnGzdIsAPvIxRp5KhJtfzrSxMGhjaDk98M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-y6m5gpduNqnGzdIsAPvIxRp5KhJtfzrSxMGhjaDk98M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"578"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022y6m5gpduNqnGzdIsAPvIxRp5KhJtfzrSxMGhjaDk98M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation/dist/additional-methods.abbf9ej8v4.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"abbf9ej8v4"},{"Name":"integrity","Value":"sha256-BrilavK0J2BIjwOGgyMWj2O0jEvjeJr9Y5\u002B4WG61BUM="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery-validation/dist/additional-methods.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36859"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BrilavK0J2BIjwOGgyMWj2O0jEvjeJr9Y5\u002B4WG61BUM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation/dist/additional-methods.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BrilavK0J2BIjwOGgyMWj2O0jEvjeJr9Y5\u002B4WG61BUM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"36859"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BrilavK0J2BIjwOGgyMWj2O0jEvjeJr9Y5\u002B4WG61BUM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation/dist/additional-methods.min.7vueng739h.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7vueng739h"},{"Name":"integrity","Value":"sha256-w3rj2zCop8MTPwD0bD2IWdRTaCDPSPy2/WTURM2pwCs="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery-validation/dist/additional-methods.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17213"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022w3rj2zCop8MTPwD0bD2IWdRTaCDPSPy2/WTURM2pwCs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation/dist/additional-methods.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w3rj2zCop8MTPwD0bD2IWdRTaCDPSPy2/WTURM2pwCs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"17213"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022w3rj2zCop8MTPwD0bD2IWdRTaCDPSPy2/WTURM2pwCs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation/dist/jquery.validate.i2mrzprh0p.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i2mrzprh0p"},{"Name":"integrity","Value":"sha256-ep/rujHKM\u002Bsn\u002Bfo9xDSDQxcffsPDuiHNEixlIKSBYbM="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery-validation/dist/jquery.validate.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48699"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ep/rujHKM\u002Bsn\u002Bfo9xDSDQxcffsPDuiHNEixlIKSBYbM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation/dist/jquery.validate.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ep/rujHKM\u002Bsn\u002Bfo9xDSDQxcffsPDuiHNEixlIKSBYbM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"48699"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ep/rujHKM\u002Bsn\u002Bfo9xDSDQxcffsPDuiHNEixlIKSBYbM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation/dist/jquery.validate.min.4xaf7nvfb1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4xaf7nvfb1"},{"Name":"integrity","Value":"sha256-CLjq\u002BrccN8E2QTT0qfP8LTFdenVdPXnTi\u002BFNQ\u002BRi\u002BM0="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery-validation/dist/jquery.validate.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23264"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CLjq\u002BrccN8E2QTT0qfP8LTFdenVdPXnTi\u002BFNQ\u002BRi\u002BM0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation/dist/jquery.validate.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CLjq\u002BrccN8E2QTT0qfP8LTFdenVdPXnTi\u002BFNQ\u002BRi\u002BM0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23264"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022CLjq\u002BrccN8E2QTT0qfP8LTFdenVdPXnTi\u002BFNQ\u002BRi\u002BM0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation/LICENSE.8kekns2cqo.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\LICENSE.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8kekns2cqo"},{"Name":"integrity","Value":"sha256-SPLmZCVbAauuju6P/BOrZFnDEaKLqk9p2Kmkmv759xQ="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery-validation/LICENSE.md"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1120"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022SPLmZCVbAauuju6P/BOrZFnDEaKLqk9p2Kmkmv759xQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery-validation/LICENSE.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\LICENSE.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SPLmZCVbAauuju6P/BOrZFnDEaKLqk9p2Kmkmv759xQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1120"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022SPLmZCVbAauuju6P/BOrZFnDEaKLqk9p2Kmkmv759xQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery/dist/jquery.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r7mGIaEXLNUkiIaLsm6WdTSgh/1jaRqgr1ZBsBmJFA4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"280367"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022r7mGIaEXLNUkiIaLsm6WdTSgh/1jaRqgr1ZBsBmJFA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery/dist/jquery.min.i4lj1bxi5k.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i4lj1bxi5k"},{"Name":"integrity","Value":"sha256-TtGMFBqw0W/ogQyEogvaMuEaX7ElYW8T49Y1YzJNoWk="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery/dist/jquery.min.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"129547"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022TtGMFBqw0W/ogQyEogvaMuEaX7ElYW8T49Y1YzJNoWk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery/dist/jquery.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7RxevFjcV677F8pvEk7rfXAkp/jKDjJ00kwvbP7al3A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"88148"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00227RxevFjcV677F8pvEk7rfXAkp/jKDjJ00kwvbP7al3A=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery/dist/jquery.min.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TtGMFBqw0W/ogQyEogvaMuEaX7ElYW8T49Y1YzJNoWk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"129547"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022TtGMFBqw0W/ogQyEogvaMuEaX7ElYW8T49Y1YzJNoWk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery/dist/jquery.min.zo5purt89w.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zo5purt89w"},{"Name":"integrity","Value":"sha256-7RxevFjcV677F8pvEk7rfXAkp/jKDjJ00kwvbP7al3A="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery/dist/jquery.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"88148"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00227RxevFjcV677F8pvEk7rfXAkp/jKDjJ00kwvbP7al3A=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery/dist/jquery.nari7624fc.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nari7624fc"},{"Name":"integrity","Value":"sha256-r7mGIaEXLNUkiIaLsm6WdTSgh/1jaRqgr1ZBsBmJFA4="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery/dist/jquery.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"280367"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022r7mGIaEXLNUkiIaLsm6WdTSgh/1jaRqgr1ZBsBmJFA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery/LICENSE.3rpoqg9oml.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3rpoqg9oml"},{"Name":"integrity","Value":"sha256-X8J9hbFtHugzjlD0bTOyuZ56HYFnkH\u002BaqsFL4hgI6T8="},{"Name":"label","Value":"_content/NFT.MVC/lib/jquery/LICENSE.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1609"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022X8J9hbFtHugzjlD0bTOyuZ56HYFnkH\u002BaqsFL4hgI6T8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/lib/jquery/LICENSE.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-X8J9hbFtHugzjlD0bTOyuZ56HYFnkH\u002BaqsFL4hgI6T8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1609"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022X8J9hbFtHugzjlD0bTOyuZ56HYFnkH\u002BaqsFL4hgI6T8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:58:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/bootstrap/css/bootstrap.min.bcb6ncsylm.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\bootstrap\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bcb6ncsylm"},{"Name":"integrity","Value":"sha256-6\u002BV41dbckcVzDpvs9o7Ao2XI/R3jrp2QIFkR0Zz99rc="},{"Name":"label","Value":"_content/NFT.MVC/vendor/bootstrap/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"216749"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226\u002BV41dbckcVzDpvs9o7Ao2XI/R3jrp2QIFkR0Zz99rc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Feb 2022 17:11:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/bootstrap/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\bootstrap\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6\u002BV41dbckcVzDpvs9o7Ao2XI/R3jrp2QIFkR0Zz99rc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"216749"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226\u002BV41dbckcVzDpvs9o7Ao2XI/R3jrp2QIFkR0Zz99rc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Feb 2022 17:11:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/bootstrap/js/bootstrap.min.89qbw8ngem.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\bootstrap\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"89qbw8ngem"},{"Name":"integrity","Value":"sha256-rAnWnVnzChxAAi8NS\u002BIlr1mE7Sj\u002Bdo\u002BX/DqyilNsznM="},{"Name":"label","Value":"_content/NFT.MVC/vendor/bootstrap/js/bootstrap.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"78474"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rAnWnVnzChxAAi8NS\u002BIlr1mE7Sj\u002Bdo\u002BX/DqyilNsznM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 30 Nov 2021 09:58:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/bootstrap/js/bootstrap.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\bootstrap\js\bootstrap.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rAnWnVnzChxAAi8NS\u002BIlr1mE7Sj\u002Bdo\u002BX/DqyilNsznM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"78474"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022rAnWnVnzChxAAi8NS\u002BIlr1mE7Sj\u002Bdo\u002BX/DqyilNsznM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 30 Nov 2021 09:58:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.a8eee2794i.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a8eee2794i"},{"Name":"integrity","Value":"sha256-igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI="},{"Name":"label","Value":"_content/NFT.MVC/vendor/jquery/jquery.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"282115"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Feb 2019 02:06:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"282115"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022igUc00PXGT1YBL1/Kf7QYy9fPlLqZKcEGrCqDz3EFDI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Feb 2019 02:06:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.min.b804xvqo1w.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b804xvqo1w"},{"Name":"integrity","Value":"sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="},{"Name":"label","Value":"_content/NFT.MVC/vendor/jquery/jquery.min.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"132370"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00221eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:39:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0wthFPuUlq5GsqjN9ZN5yP/blXU0vR3XPmJsfGHH5n0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"86927"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00220wthFPuUlq5GsqjN9ZN5yP/blXU0vR3XPmJsfGHH5n0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:39:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.min.jsxrs32yp5.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jsxrs32yp5"},{"Name":"integrity","Value":"sha256-0wthFPuUlq5GsqjN9ZN5yP/blXU0vR3XPmJsfGHH5n0="},{"Name":"label","Value":"_content/NFT.MVC/vendor/jquery/jquery.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"86927"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00220wthFPuUlq5GsqjN9ZN5yP/blXU0vR3XPmJsfGHH5n0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:39:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.min.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"132370"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00221eiGMA0y1kD5P/bXnTaiTKk8vtvQ8IC2nXAoI1HJXyE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:39:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.slim.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.slim.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iASwdbd3qZtfn/hmjgKAujvTe93Fp8nT2eCFUYkKj08="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"227166"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iASwdbd3qZtfn/hmjgKAujvTe93Fp8nT2eCFUYkKj08=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:38:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.slim.khhs5umk4w.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.slim.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"khhs5umk4w"},{"Name":"integrity","Value":"sha256-iASwdbd3qZtfn/hmjgKAujvTe93Fp8nT2eCFUYkKj08="},{"Name":"label","Value":"_content/NFT.MVC/vendor/jquery/jquery.slim.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"227166"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iASwdbd3qZtfn/hmjgKAujvTe93Fp8nT2eCFUYkKj08=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:38:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.slim.min.dcowqscbhr.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.slim.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dcowqscbhr"},{"Name":"integrity","Value":"sha256-w/K14c9es\u002B\u002BXoHzIMaMmA0G6Ea9ndjvAXvPp5V26jB8="},{"Name":"label","Value":"_content/NFT.MVC/vendor/jquery/jquery.slim.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"69919"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022w/K14c9es\u002B\u002BXoHzIMaMmA0G6Ea9ndjvAXvPp5V26jB8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:38:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.slim.min.hiqumc4mhz.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.slim.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hiqumc4mhz"},{"Name":"integrity","Value":"sha256-R9iD2BZjLu3OzwrErQRNtxPK5tUuGdtBa2iefT78g2c="},{"Name":"label","Value":"_content/NFT.MVC/vendor/jquery/jquery.slim.min.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"105346"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022R9iD2BZjLu3OzwrErQRNtxPK5tUuGdtBa2iefT78g2c=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:38:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.slim.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.slim.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w/K14c9es\u002B\u002BXoHzIMaMmA0G6Ea9ndjvAXvPp5V26jB8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"69919"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022w/K14c9es\u002B\u002BXoHzIMaMmA0G6Ea9ndjvAXvPp5V26jB8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:38:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NFT.MVC/vendor/jquery/jquery.slim.min.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\jquery\jquery.slim.min.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R9iD2BZjLu3OzwrErQRNtxPK5tUuGdtBa2iefT78g2c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"105346"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022R9iD2BZjLu3OzwrErQRNtxPK5tUuGdtBa2iefT78g2c=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Feb 2019 18:38:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

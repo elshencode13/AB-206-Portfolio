@@ -12,5 +12,5 @@ public class AppDbContext : DbContext
 {
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) {}
 
-    public DbSet<ProductModel> ProductModels { get; set; }
+    public DbSet<ProductModel> ProductModels { get; set; }  
 }

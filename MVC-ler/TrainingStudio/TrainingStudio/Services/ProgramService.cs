@@ -43,8 +43,8 @@ public class ProgramService
     #region Update
     public void UpdateProgram(ProgramModel programModel)
     {
-
-
+        ProgramModel? findProg = GetAllProById(programModel.Id);
+        _appDbContext.SaveChanges();
     }
 
 
@@ -53,7 +53,7 @@ public class ProgramService
     #region Delete
     public void DeleteProgram(int id)
     {
-      ProgramModel programModel = GetAllProById(id);
+      ProgramModel? programModel = GetAllProById(id);
 
         if (programModel is null)
         {
