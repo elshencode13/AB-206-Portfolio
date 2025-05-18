@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\bin\Debug\net8.0\Carvilla.DAL.deps.json
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\bin\Debug\net8.0\Carvilla.DAL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\bin\Debug\net8.0\Carvilla.DAL.pdb
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\Carvilla.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\Carvilla.DAL.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\Carvilla.DAL.AssemblyInfo.cs
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\Carvilla.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\Carvilla.DAL.sourcelink.json
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\Carvilla.DAL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\refint\Carvilla.DAL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\Carvilla.DAL.pdb
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\ref\Carvilla.DAL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\bin\Debug\net8.0\Carvilla.DAL.runtimeconfig.json
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\Carvilla.DAL.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.DAL\obj\Debug\net8.0\Carvilla.DAL.genruntimeconfig.cache
