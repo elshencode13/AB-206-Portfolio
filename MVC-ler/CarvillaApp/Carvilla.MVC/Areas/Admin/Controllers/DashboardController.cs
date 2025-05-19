@@ -1,18 +1,28 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Carvilla.DAL.Contexts;
+using Carvilla.DAL.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Carvilla.MVC.Areas.Admin.Controllers
 {
+        [Area("admin")]
     public class DashboardController : Controller
     {
-        [Area("admin")]
+        private readonly AppDbContext _context;
+
+        public DashboardController()
+        {
+            _context = new AppDbContext();
+        }
+
         public IActionResult Index()
         {
             return View();
         }
-
+        
         public IActionResult Tables()
         {
-            return View();
+            List<CarsModel> carsModels = _context.CarsModels.ToList();
+            return View(carsModels);
         }
     }
 }

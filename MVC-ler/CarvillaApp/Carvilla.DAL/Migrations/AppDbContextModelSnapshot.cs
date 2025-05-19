@@ -58,7 +58,7 @@ namespace Carvilla.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("carsModels");
+                    b.ToTable("CarsModels");
                 });
 #pragma warning restore 612, 618
         }

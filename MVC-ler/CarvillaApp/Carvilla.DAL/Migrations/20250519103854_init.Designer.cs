@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Carvilla.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250518214913_init")]
+    [Migration("20250519103854_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -61,7 +61,7 @@ namespace Carvilla.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("carsModels");
+                    b.ToTable("CarsModels");
                 });
 #pragma warning restore 612, 618
         }

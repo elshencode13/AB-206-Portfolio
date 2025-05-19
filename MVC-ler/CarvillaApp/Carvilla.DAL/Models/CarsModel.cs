@@ -10,10 +10,10 @@ namespace Carvilla.DAL.Models
     {
        public string Name { get; set; }
        public string Description { get; set; }
-       public string Imgurl { get; set; }
+       public string? Imgurl { get; set; }
        public string Model { get; set; }
        public string Mi { get; set; }
-        public string HP { get; set; }
-        public int Price { get; set; }
+       public string HP { get; set; }
+       public int Price { get; set; }
     }
 }

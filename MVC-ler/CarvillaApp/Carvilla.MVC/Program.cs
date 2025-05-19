@@ -1,3 +1,5 @@
+using Carvilla.DAL.Contexts;
+
 namespace Carvilla.MVC
 {
     public class Program
@@ -6,7 +8,7 @@ namespace Carvilla.MVC
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
-
+            
             var app = builder.Build();
             app.UseStaticFiles();
             app.MapControllerRoute(

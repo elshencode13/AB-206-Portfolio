@@ -14,7 +14,7 @@ namespace Carvilla.MVC.Controllers
         }
         public IActionResult Index()
         {
-            List<CarsModel> carsModels = _context.carsModels.ToList();
+            List<CarsModel> carsModels = _context.CarsModels.ToList();
             return View(carsModels);
         }
     }

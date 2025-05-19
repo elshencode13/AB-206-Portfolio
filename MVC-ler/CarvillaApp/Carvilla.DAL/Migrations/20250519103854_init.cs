@@ -11,7 +11,7 @@ namespace Carvilla.DAL.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "carsModels",
+                name: "CarsModels",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -26,7 +26,7 @@ namespace Carvilla.DAL.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_carsModels", x => x.Id);
+                    table.PrimaryKey("PK_CarsModels", x => x.Id);
                 });
         }
 
@@ -34,7 +34,7 @@ namespace Carvilla.DAL.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "carsModels");
+                name: "CarsModels");
         }
     }
 }

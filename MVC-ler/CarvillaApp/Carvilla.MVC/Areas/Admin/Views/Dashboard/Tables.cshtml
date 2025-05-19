@@ -1,4 +1,5 @@
-﻿<div class="row ">
+﻿@model List<CarsModel>
+<div class="row ">
     <div class="col-12 grid-margin">
         <div class="card">
             <div class="card-body">
@@ -6,135 +7,36 @@
                 <div class="table-responsive">
                     <table class="table">
                         <thead>
+                            <a asp-controller="Service" asp-action="Create">Yeni Car Modeli yarat</a>
                             <tr>
-                                <th>
-                                    <div class="form-check form-check-muted m-0">
-                                        <label class="form-check-label">
-                                            <input type="checkbox" class="form-check-input">
-                                            <i class="input-helper"></i>
-                                        </label>
-                                    </div>
-                                </th>
-                                <th> Client Name </th>
-                                <th> Order No </th>
-                                <th> Product Cost </th>
-                                <th> Project </th>
-                                <th> Payment Mode </th>
-                                <th> Start Date </th>
-                                <th> Payment Status </th>
+                                <th> # </th>
+                                <th> Imgurl </th>    
+                                <th> Name </th>
+                                <th> Description </th>
+                                <th> Model </th>
+                                <th> Mi </th>
+                                <th> HP </th>
+                                <th> Price </th>
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <td>
-                                    <div class="form-check form-check-muted m-0">
-                                        <label class="form-check-label">
-                                            <input type="checkbox" class="form-check-input">
-                                            <i class="input-helper"></i>
-                                        </label>
-                                    </div>
-                                </td>
-                                <td>
-                                    <img src="/admin/assets/images/faces/face1.jpg" alt="image">
-                                    <span class="pl-2">Henry Klein</span>
-                                </td>
-                                <td> 02312 </td>
-                                <td> $14,500 </td>
-                                <td> Dashboard </td>
-                                <td> Credit card </td>
-                                <td> 04 Dec 2019 </td>
-                                <td>
-                                    <div class="badge badge-outline-success">Approved</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="form-check form-check-muted m-0">
-                                        <label class="form-check-label">
-                                            <input type="checkbox" class="form-check-input">
-                                            <i class="input-helper"></i>
-                                        </label>
-                                    </div>
-                                </td>
-                                <td>
-                                    <img src="/admin/assets/images/faces/face2.jpg" alt="image">
-                                    <span class="pl-2">Estella Bryan</span>
-                                </td>
-                                <td> 02312 </td>
-                                <td> $14,500 </td>
-                                <td> Website </td>
-                                <td> Cash on delivered </td>
-                                <td> 04 Dec 2019 </td>
-                                <td>
-                                    <div class="badge badge-outline-warning">Pending</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="form-check form-check-muted m-0">
-                                        <label class="form-check-label">
-                                            <input type="checkbox" class="form-check-input">
-                                            <i class="input-helper"></i>
-                                        </label>
-                                    </div>
-                                </td>
-                                <td>
-                                    <img src="/admin/assets/images/faces/face5.jpg" alt="image">
-                                    <span class="pl-2">Lucy Abbott</span>
-                                </td>
-                                <td> 02312 </td>
-                                <td> $14,500 </td>
-                                <td> App design </td>
-                                <td> Credit card </td>
-                                <td> 04 Dec 2019 </td>
-                                <td>
-                                    <div class="badge badge-outline-danger">Rejected</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="form-check form-check-muted m-0">
-                                        <label class="form-check-label">
-                                            <input type="checkbox" class="form-check-input">
-                                            <i class="input-helper"></i>
-                                        </label>
-                                    </div>
-                                </td>
-                                <td>
-                                    <img src="/admin/assets/images/faces/face3.jpg" alt="image">
-                                    <span class="pl-2">Peter Gill</span>
-                                </td>
-                                <td> 02312 </td>
-                                <td> $14,500 </td>
-                                <td> Development </td>
-                                <td> Online Payment </td>
-                                <td> 04 Dec 2019 </td>
-                                <td>
-                                    <div class="badge badge-outline-success">Approved</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <div class="form-check form-check-muted m-0">
-                                        <label class="form-check-label">
-                                            <input type="checkbox" class="form-check-input">
-                                            <i class="input-helper"></i>
-                                        </label>
-                                    </div>
-                                </td>
-                                <td>
-                                    <img src="/admin/assets/images/faces/face4.jpg" alt="image">
-                                    <span class="pl-2">Sallie Reyes</span>
-                                </td>
-                                <td> 02312 </td>
-                                <td> $14,500 </td>
-                                <td> Website </td>
-                                <td> Credit card </td>
-                                <td> 04 Dec 2019 </td>
-                                <td>
-                                    <div class="badge badge-outline-success">Approved</div>
-                                </td>
-                            </tr>
+                            @foreach (CarsModel item in Model) {
+                                <tr>
+                                    <td> @item.Id </td>
+                                    <td>
+                                        <img src="~/assets/uploadedimages/@item.Imgurl" alt="image">
+                                        <span class="pl-2">Henry Klein</span>
+                                    </td>
+                                    <td> @item.Name </td>
+                                    <td> $@item.Description </td>
+                                    <td> @item.Model </td>
+                                    <td> @item.Mi </td>
+                                    <td> @item.HP </td>
+                                    <td> @item.Price </td>
+                                    <td> <a asp-controller="Service" asp-action="Delete" asp-route-id="@item.Id">Delete</a>  </td>
+                                    <td> <a asp-controller="Service" asp-action="Update" asp-route-id="@item.Id">Update</a>  </td>
+                                </tr>
+                            }
                         </tbody>
                     </table>
                 </div>
