@@ -4043,23 +4043,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\II Novbe\\.nuget\\packages\\": {},
+    "C:\\Users\\MSI\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
       "projectName": "GYM.DAL",
-      "projectPath": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
-      "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II Novbe\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\obj\\",
+      "projectPath": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\GYM.DAL.csproj",
+      "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

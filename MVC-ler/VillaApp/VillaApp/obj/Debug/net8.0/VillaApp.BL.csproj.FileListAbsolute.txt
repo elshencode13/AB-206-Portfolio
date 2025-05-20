@@ -1,0 +1,16 @@
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\bin\Debug\net8.0\VillaApp.BL.deps.json
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\bin\Debug\net8.0\VillaApp.BL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\bin\Debug\net8.0\VillaApp.BL.pdb
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\bin\Debug\net8.0\ViIla.DAL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\bin\Debug\net8.0\ViIla.DAL.pdb
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\VillaApp.BL.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\VillaApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\VillaApp.BL.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\VillaApp.BL.AssemblyInfo.cs
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\VillaApp.BL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\VillaApp.BL.sourcelink.json
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\VillaApp.D7B15D64.Up2Date
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\VillaApp.BL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\refint\VillaApp.BL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\VillaApp.BL.pdb
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\VillaApp\obj\Debug\net8.0\ref\VillaApp.BL.dll

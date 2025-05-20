@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\bin\Debug\net8.0\ViIla.DAL.deps.json
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\bin\Debug\net8.0\ViIla.DAL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\bin\Debug\net8.0\ViIla.DAL.pdb
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\ViIla.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\ViIla.DAL.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\ViIla.DAL.AssemblyInfo.cs
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\ViIla.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\ViIla.DAL.sourcelink.json
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\ViIla.DAL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\refint\ViIla.DAL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\ViIla.DAL.pdb
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\ref\ViIla.DAL.dll
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\ViIla.DAL.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\bin\Debug\net8.0\ViIla.DAL.runtimeconfig.json
+C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\VillaApp\ViIla.DAL\obj\Debug\net8.0\ViIla.DAL.genruntimeconfig.cache
