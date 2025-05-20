@@ -25,7 +25,6 @@ namespace Carvilla.MVC.Areas.Admin.Controllers
         public IActionResult Create(CarsModelsCreateVM carsModelsCreateVM)
         {
             _services.Create(carsModelsCreateVM);
-
             return RedirectToAction("Tables","Dashboard");
         }
 

@@ -5,7 +5,7 @@
         <div class="card-body">
             <h4 class="card-title">Create form</h4>
             <p class="card-description"> Basic form layout </p>
-            <form class="forms-sample">
+            <form asp-area="Admin" asp-controller="Service" asp-action="Create" method="post" enctype="multipart/form-data" class="forms-sample">
                 <div class="form-group">
                     <label >Name: </label>
                     <input asp-for="Name"  placeholder="Name">
@@ -15,12 +15,24 @@
                     <input asp-for="Model" placeholder="Model">
                 </div>
                 <div class="form-group">
+                    <label for="exampleInputEmail1">Description: </label>
+                    <input asp-for="Description" placeholder="Model">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">hP: </label>
+                    <input asp-for="HP" placeholder="Model">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Mi: </label>
+                    <input asp-for="Mi" placeholder="Model">
+                </div>
+                <div class="form-group">
                     <label for="exampleInputPassword1">Price: </label>
                     <input asp-for="Price" placeholder="Price">
                 </div>
                 <div class="form-group">
                     <label for="exampleInputConfirmPassword1">Image: </label>
-                    <input type="file" placeholder="img">
+                    <input asp-for="Image" placeholder="img">
                 </div>
                 <div class="form-check form-check-flat form-check-primary">
                     <label class="form-check-label">
