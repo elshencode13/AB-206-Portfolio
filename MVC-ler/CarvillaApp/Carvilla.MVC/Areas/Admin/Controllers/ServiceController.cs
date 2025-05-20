@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Carvilla.MVC.Areas.Admin.Controllers
 {
-    [Area("admin")]
+    [Area("Admin")]
     public class ServiceController : Controller
     {
         private readonly CarsModelServices _services;
@@ -39,7 +39,7 @@ namespace Carvilla.MVC.Areas.Admin.Controllers
         public IActionResult Update(int id)
         {
             CarsModel carsModel = _services.GetById(id);
-            CarsModelUpdateVM carsModelUpdateVM = new CarsModelUpdateVM();
+            CarsModelsUpdateVM carsModelUpdateVM = new CarsModelsUpdateVM();
 
             carsModelUpdateVM.Name =carsModel.Name;
             carsModelUpdateVM.Model = carsModel.Model ;
@@ -52,7 +52,7 @@ namespace Carvilla.MVC.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public IActionResult Update(int id,CarsModelUpdateVM carsModelUpdateVM)
+        public IActionResult Update(int id,CarsModelsUpdateVM carsModelUpdateVM)
         {
             _services.Update(carsModelUpdateVM,id);
             return RedirectToAction("Tables", "Dashboard");

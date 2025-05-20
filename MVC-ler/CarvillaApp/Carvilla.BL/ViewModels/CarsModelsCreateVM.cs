@@ -10,8 +10,8 @@ namespace Carvilla.BL.ViewModels
     public class CarsModelsCreateVM
     {
         public string Name { get; set; }
-        public string Description { get; set; }
-        public IFormFile Imgurl { get; set; }
+        public string? Description { get; set; }
+        public IFormFile Image { get; set; }
         public string Model { get; set; }
         public string Mi { get; set; }
         public string HP { get; set; }

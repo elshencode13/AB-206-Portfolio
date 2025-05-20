@@ -952,3 +952,11 @@ wwwroot\assets\js\feather.min.js
 wwwroot\assets\js\jquery.js
 wwwroot\assets\js\owl.carousel.min.js
 wwwroot\assets\logo\favicon.png
+wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-24263593293ed10f76-34db-4fe6-a441-652cf42cdf8c.webp
+wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329664062bf-2da6-4f99-98e5-1857a7771066.webp
+wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329a4dc191f-8d91-42f2-989c-74fa2f4c89b6.webp
+wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329a5ce98f4-392a-41c5-85e0-47e743e4f843.webp
+wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329b0bf05f0-f948-4447-9b39-d09947509b62.webp
+wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329cceb401e-fb95-4663-a975-78c81045250b.webp
+wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329d6e968bc-9a25-442e-b7ce-b1d7df0f9171.webp
+wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329eb307e0c-28f1-4146-a1e5-6206680927df.webp

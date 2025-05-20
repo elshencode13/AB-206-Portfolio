@@ -5,7 +5,7 @@
         <div class="card-body">
             <h4 class="card-title">Create form</h4>
             <p class="card-description"> Basic form layout </p>
-            <form class="forms-sample">
+            <form method="post"  class="forms-sample" enctype="multipart/form-data">
                 <div class="form-group">
                     <label >Name: </label>
                     <input asp-for="Name"  placeholder="Name">
@@ -19,8 +19,16 @@
                     <input asp-for="Price" placeholder="Price">
                 </div>
                 <div class="form-group">
+                    <label for="exampleInputPassword1">Mi: </label>
+                    <input asp-for="Mi" placeholder="Mi">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Hp: </label>
+                    <input asp-for="HP" placeholder="Hp">
+                </div>
+                <div class="form-group">
                     <label for="exampleInputConfirmPassword1">Image: </label>
-                    <input type="file" placeholder="img">
+                    <input asp-for="Image" placeholder="img">
                 </div>
                 <div class="form-check form-check-flat form-check-primary">
                     <label class="form-check-label">

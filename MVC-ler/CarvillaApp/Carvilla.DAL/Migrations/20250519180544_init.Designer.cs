@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Carvilla.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250519103854_init")]
+    [Migration("20250519180544_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -41,7 +41,6 @@ namespace Carvilla.DAL.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Imgurl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Mi")

@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Carvilla.MVC.Areas.Admin.Controllers
 {
-        [Area("admin")]
+        [Area("Admin")]
     public class DashboardController : Controller
     {
         private readonly AppDbContext _context;

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Carvilla.BL.ViewModels
 {
-    public class CarsModelUpdateVM
+    public class CarsModelsUpdateVM
     {
         public string Name { get; set; }
         public string Description { get; set; }

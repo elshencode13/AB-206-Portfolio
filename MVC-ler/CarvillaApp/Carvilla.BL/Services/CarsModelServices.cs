@@ -33,17 +33,17 @@ namespace Carvilla.BL.Services
             carsModel.Price = carsModelsVM.Price;
 
             //fileupload
-            string fileName = Path.GetFileNameWithoutExtension(carsModelsVM.Imgurl.FileName);
-            string extension = Path.GetExtension(carsModelsVM.Imgurl.FileName);
+            string fileName = Path.GetFileNameWithoutExtension(carsModelsVM.Image.FileName);
+            string extension = Path.GetExtension(carsModelsVM.Image.FileName);
 
             string fullName = fileName + Guid.NewGuid().ToString() + extension;
             carsModel.Imgurl = fullName;
 
             //upload olunma
-            string uploadPath = @"C:\Users\II Novbe\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.MVC\wwwroot\assets\UploadedImages";
+            string uploadPath = @"C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.MVC\wwwroot\assets\UploadedImages";
             uploadPath = Path.Combine(uploadPath, fullName);
             using FileStream stream = new FileStream(uploadPath, FileMode.Create);
-            carsModelsVM.Imgurl.CopyTo(stream);
+            carsModelsVM.Image.CopyTo(stream);
 
             _context.Add(carsModel);
             _context.SaveChanges();
@@ -73,7 +73,7 @@ namespace Carvilla.BL.Services
 
         #region Update
 
-        public void Update(CarsModelUpdateVM carsModelUpdateVM,int id)
+        public void Update(CarsModelsUpdateVM carsModelUpdateVM,int id)
         {
             CarsModel carsModel = GetById(id);
 
