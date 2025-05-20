@@ -40,7 +40,7 @@ namespace Carvilla.BL.Services
             carsModel.Imgurl = fullName;
 
             //upload olunma
-            string uploadPath = @"C:\Users\MSI\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.MVC\wwwroot\assets\UploadedImages";
+            string uploadPath = @"C:\Users\II Novbe\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.MVC\wwwroot\assets\UploadedImages";
             uploadPath = Path.Combine(uploadPath, fullName);
             using FileStream stream = new FileStream(uploadPath, FileMode.Create);
             carsModelsVM.Image.CopyTo(stream);
@@ -73,8 +73,12 @@ namespace Carvilla.BL.Services
 
         #region Update
 
-        public void Update(CarsModelsUpdateVM carsModelUpdateVM,int id)
+        public void Update(CarsModelUpdateVM carsModelUpdateVM,int id)
         {
+            if (ModelS)
+            {
+
+            }
             CarsModel carsModel = GetById(id);
 
             carsModel.Name = carsModelUpdateVM.Name;
@@ -84,11 +88,11 @@ namespace Carvilla.BL.Services
             carsModel.HP = carsModelUpdateVM.HP;
             carsModel.Price = carsModelUpdateVM.Price;
 
-            if (carsModelUpdateVM is not null)
+            if (carsModelUpdateVM.Image is not null)
             {
                 //fileupload
-                string fileName = Path.GetFileNameWithoutExtension(carsModelUpdateVM.Imgurl.FileName);
-                string extension = Path.GetExtension(carsModelUpdateVM.Imgurl.FileName);
+                string fileName = Path.GetFileNameWithoutExtension(carsModelUpdateVM.Image.FileName);
+                string extension = Path.GetExtension(carsModelUpdateVM.Image.FileName);
 
                 string fullName = fileName + Guid.NewGuid().ToString() + extension;
                 carsModel.Imgurl = fullName;
@@ -97,9 +101,15 @@ namespace Carvilla.BL.Services
                 string uploadPath = @"C:\Users\II Novbe\Desktop\AB-206-Portfolio\MVC-ler\CarvillaApp\Carvilla.MVC\wwwroot\assets\UploadedImages";
                 uploadPath = Path.Combine(uploadPath, fullName);
                 using FileStream stream = new FileStream(uploadPath, FileMode.Create);
-                carsModelUpdateVM.Imgurl.CopyTo(stream);
+                carsModelUpdateVM.Image.CopyTo(stream);
 
-                _context.Add(carsModel);
+                _context.SaveChanges();
+
+            }
+            else
+            {
+                var clickedData = GetById(id);
+                carsModel.Imgurl = clickedData.Imgurl;
                 _context.SaveChanges();
 
             }

@@ -6,6 +6,7 @@ namespace Carvilla.MVC.Controllers
 {
     public class HomeController : Controller
     {
+       
         private readonly AppDbContext _context;
 
         public HomeController()
@@ -13,7 +14,10 @@ namespace Carvilla.MVC.Controllers
             _context = new AppDbContext();
         }
         public IActionResult Index()
+           
         {
+            if(ModelState){
+            }
             List<CarsModel> carsModels = _context.CarsModels.ToList();
             return View(carsModels);
         }

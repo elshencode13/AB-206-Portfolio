@@ -10,7 +10,7 @@ namespace Carvilla.DAL.Contexts;
 
 public class AppDbContext:DbContext
 {
-    private readonly string _connectionString = "Server=BAABAAA;Database=CarvillaDb;Trusted_Connection=True;TrustServerCertificate=True";
+    private readonly string _connectionString = @"Server=DESKTOP-GTVND9D\SQLEXPRESS;Database=CarvillaDb;Trusted_Connection=True;TrustServerCertificate=True";
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlServer(_connectionString);

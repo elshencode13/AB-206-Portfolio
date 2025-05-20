@@ -38,6 +38,7 @@ namespace Carvilla.DAL.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Imgurl")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Mi")

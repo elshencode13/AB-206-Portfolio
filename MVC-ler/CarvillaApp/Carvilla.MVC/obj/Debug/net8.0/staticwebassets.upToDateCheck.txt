@@ -952,11 +952,12 @@ wwwroot\assets\js\feather.min.js
 wwwroot\assets\js\jquery.js
 wwwroot\assets\js\owl.carousel.min.js
 wwwroot\assets\logo\favicon.png
-wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-24263593293ed10f76-34db-4fe6-a441-652cf42cdf8c.webp
-wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329664062bf-2da6-4f99-98e5-1857a7771066.webp
-wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329a4dc191f-8d91-42f2-989c-74fa2f4c89b6.webp
-wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329a5ce98f4-392a-41c5-85e0-47e743e4f843.webp
-wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329b0bf05f0-f948-4447-9b39-d09947509b62.webp
-wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329cceb401e-fb95-4663-a975-78c81045250b.webp
-wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329d6e968bc-9a25-442e-b7ce-b1d7df0f9171.webp
-wwwroot\assets\UploadedImages\minsk-belarus-08082022-mercedesbenz-w140-260nw-2426359329eb307e0c-28f1-4146-a1e5-6206680927df.webp
+wwwroot\assets\UploadedImages\rick-and-morty-cool-t3ynu5ly9m7jq6e208b27380-a347-4af0-b190-9a697b5f1b15.jpg
+wwwroot\assets\UploadedImages\rick-and-morty-cool-t3ynu5ly9m7jq6e21c330271-81be-4a6b-8bc5-6cc0a39e4e1f.jpg
+wwwroot\assets\UploadedImages\rick-and-morty-cool-t3ynu5ly9m7jq6e2b3f98790-14e1-4a20-a589-d19c446a0fb3.jpg
+wwwroot\assets\UploadedImages\rick-and-morty-cool-t3ynu5ly9m7jq6e2bb9624e9-708e-45d7-a07d-5c9a5d9b2f20.jpg
+wwwroot\assets\UploadedImages\rick-and-morty-cool-t3ynu5ly9m7jq6e2e6c28101-ec5c-4a3c-9fc8-f043dee3089c.jpg
+wwwroot\assets\UploadedImages\rick-and-morty-cool-t3ynu5ly9m7jq6e2eb10fb7f-111c-4857-abbc-9fe4e6d7cc9b.jpg
+wwwroot\assets\UploadedImages\Screenshot (1)4fc25291-0c71-4642-abac-bd82155b72b6.png
+wwwroot\assets\UploadedImages\Screenshot (1)68df1d46-d6b9-4f2d-aceb-048415345aba.png
+wwwroot\assets\UploadedImages\Screenshot (1)8155484c-67ca-4a49-a1f2-b41b7780c4b8.png
