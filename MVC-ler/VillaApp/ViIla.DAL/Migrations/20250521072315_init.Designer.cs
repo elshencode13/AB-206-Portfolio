@@ -11,7 +11,7 @@ using ViIla.DAL.Contexts;
 namespace ViIla.DAL.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250520223003_init")]
+    [Migration("20250521072315_init")]
     partial class init
     {
         /// <inheritdoc />

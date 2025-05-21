@@ -16,8 +16,6 @@ namespace Carvilla.MVC.Controllers
         public IActionResult Index()
            
         {
-            if(ModelState){
-            }
             List<CarsModel> carsModels = _context.CarsModels.ToList();
             return View(carsModels);
         }

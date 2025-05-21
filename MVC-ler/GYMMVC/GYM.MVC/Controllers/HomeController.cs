@@ -1,4 +1,5 @@
 ﻿using GYM.BL.Services;
+using GYM.DAL.Contexts;
 using GYM.DAL.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,17 +7,17 @@ namespace GYM.MVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ProductService _productService;
+        private readonly AppDbContext _context;
 
-        public HomeController(ProductService productService)
+        public HomeController(AppDbContext appDbContext)
         {
-            _productService = productService;
+            _context = appDbContext;
         }
 
         public IActionResult Index()
         {
-            List<ProductModel> getAllProd = _productService.GetAllProd();
-            return View(getAllProd);
+            List<ProductModel> productModels = _context.ProductModels.ToList();
+            return View(productModels);
         }
     }
 }

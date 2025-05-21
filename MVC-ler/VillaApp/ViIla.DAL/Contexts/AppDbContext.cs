@@ -13,6 +13,6 @@ namespace ViIla.DAL.Contexts
         public AppDbContext(DbContextOptions<AppDbContext> options) :base(options)
         {    }
 
-        public DbSet<VillaModel> villaModel { get; set; }
+        public DbSet<VillaModel> villaModels { get; set; }
     }
 }

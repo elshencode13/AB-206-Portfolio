@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5B87918-1BE8-49B9-ACC1-65625B34D6C8}|GYM.MVC\\GYM.MVC.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\mvc-ler\\gymmvc\\gym.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B87918-1BE8-49B9-ACC1-65625B34D6C8}|GYM.MVC\\GYM.MVC.csproj|solutionrelative:gym.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3539CB81-4970-40F3-8149-C1E5AFBB7555}|GYM.BL\\GYM.BL.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\mvc-ler\\gymmvc\\gym.bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3539CB81-4970-40F3-8149-C1E5AFBB7555}|GYM.BL\\GYM.BL.csproj|solutionrelative:gym.bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ECDEB362-21EF-4825-B006-2412C721A99F}|GYM.DAL\\GYM.DAL.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\mvc-ler\\gymmvc\\gym.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECDEB362-21EF-4825-B006-2412C721A99F}|GYM.DAL\\GYM.DAL.csproj|solutionrelative:gym.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5B87918-1BE8-49B9-ACC1-65625B34D6C8}|GYM.MVC\\GYM.MVC.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\mvc-ler\\gymmvc\\gym.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B87918-1BE8-49B9-ACC1-65625B34D6C8}|GYM.MVC\\GYM.MVC.csproj|solutionrelative:gym.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECDEB362-21EF-4825-B006-2412C721A99F}|GYM.DAL\\GYM.DAL.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\mvc-ler\\gymmvc\\gym.dal\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5B87918-1BE8-49B9-ACC1-65625B34D6C8}|GYM.MVC\\GYM.MVC.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\mvc-ler\\gymmvc\\gym.mvc\\areas\\admin\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5B87918-1BE8-49B9-ACC1-65625B34D6C8}|GYM.MVC\\GYM.MVC.csproj|solutionrelative:gym.mvc\\areas\\admin\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5B87918-1BE8-49B9-ACC1-65625B34D6C8}|GYM.MVC\\GYM.MVC.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\mvc-ler\\gymmvc\\gym.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5B87918-1BE8-49B9-ACC1-65625B34D6C8}|GYM.MVC\\GYM.MVC.csproj|solutionrelative:gym.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5B87918-1BE8-49B9-ACC1-65625B34D6C8}|GYM.MVC\\GYM.MVC.csproj|c:\\users\\msi\\desktop\\ab-206-portfolio\\mvc-ler\\gymmvc\\gym.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -98,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,41 +102,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.BL\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "GYM.BL\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.BL\\Services\\ProductService.cs",
               "RelativeToolTip": "GYM.BL\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAEkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T12:26:56.583Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "GYM.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Program.cs",
-              "RelativeToolTip": "GYM.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T12:11:05.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "GYM.DAL\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "GYM.DAL\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T12:17:37.165Z"
             },
             {
               "$type": "Document",
@@ -168,19 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "GYM.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "GYM.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T12:37:53.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "GYM.MVC\\ScaffoldingReadMe.txt",
@@ -192,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "GYM.MVC\\appsettings.json",
@@ -201,6 +160,43 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-15T12:23:30.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GYM.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GYM.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:10:44.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GYM.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "GYM.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:17:37.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "GYM.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Program.cs",
+              "RelativeToolTip": "GYM.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:11:05.5Z"
             },
             {
               "$type": "Document",
@@ -228,18 +224,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "GYM.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "GYM.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T12:10:44.742Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -264,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GYM.MVC\\Views\\Home\\Index.cshtml",
@@ -276,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GYM.MVC\\Views\\Shared\\_Layout.cshtml",
@@ -288,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GYM.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -300,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "GYM.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -312,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "GYM.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -324,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "GYM.MVC.csproj",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\GYM.MVC.csproj",
               "RelativeDocumentMoniker": "GYM.MVC\\GYM.MVC.csproj",
@@ -336,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "GYM.MVC\\Views\\_ViewImports.cshtml",
@@ -348,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "20250515123022_CreateProductModel.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.DAL\\Migrations\\20250515123022_CreateProductModel.cs",
               "RelativeDocumentMoniker": "GYM.DAL\\Migrations\\20250515123022_CreateProductModel.cs",
@@ -360,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\AB-206-Portfolio\\MVC-ler\\GYMMVC\\GYM.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "GYM.MVC\\Views\\_ViewStart.cshtml",
